@@ -12,8 +12,11 @@ css  style hilight
 
 
 
+## changlog
+###  0.0.2 [2017-10-9]
+add logo
 
-### 0.0.1
+###   0.0.1 [2017-10-9]
 
 Added css style synctax hilight. 
 
@@ -21,7 +24,7 @@ css  style hilight
 
 ### For more information
 
-* [Star & fork](https://github.com/foxundermoon/vs-next.js)
+* [Star & fork & issue](https://github.com/foxundermoon/vs-next.js)
 
 * [next.js](https://github.com/zeit/next.js/)
 

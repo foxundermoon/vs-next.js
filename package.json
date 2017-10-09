@@ -2,12 +2,13 @@
   "name": "next-js",
   "displayName": "next.js",
   "description": "next.js enhance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "foxundermoon",
   "engines": {
     "vscode": "^1.14.0"
   },
   "categories": ["Other"],
+  "icon": "https://raw.githubusercontent.com/foxundermoon/vs-next.js/master/image/next-white.png",
   "activationEvents": ["onCommand:extension.sayHello"],
   "main": "./out/src/extension",
   "contributes": {
@@ -28,6 +29,10 @@
     "postinstall": "node ./node_modules/vscode/bin/install",
     "test": "node ./node_modules/vscode/bin/test"
   },
+  "galleryBanner": {
+    "color": "#2e2348",
+    "theme": "dark"
+},
   "devDependencies": {
     "typescript": "^2.0.3",
     "vscode": "^1.0.0",
