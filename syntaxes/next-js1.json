@@ -1,0 +1,24 @@
+{
+  "fileTypes": ["js", "jsx", "ts", "tsx"],
+  "injectionSelector": "L:source -string -comment",
+  "patterns": [
+    {
+      "name": "taggedTemplates",
+      "contentName": "meta.embedded.block.css",
+      "begin": "(?<=jsx>{)`",
+      "beginCaptures": {
+        "0": {
+          "name": "punctuation.definition.string.template.begin.css"
+        }
+      },
+      "end": "`",
+      "endCaptures": {
+        "0": {
+          "name": "punctuation.definition.string.template.end.css"
+        }
+      },
+      "patterns": [{ "include": "source.css" }]
+    }
+  ],
+  "scopeName": "inline.css"
+}
