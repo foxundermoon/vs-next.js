@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 542 449" version="1.1" xmlns="http://www.w3.org/2000/svg" style="background: #FFFFFF;">
+    <title>Zeit — Black on white text logo</title>
+    <defs>
+        <linearGradient x1="114.720775%" y1="181.283245%" x2="39.5399306%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Complete-logo-(white-on-black)">
+            <polygon id="Triangle-3" fill="url(#linearGradient-1)" points="167.49162 205 192.98324 250.226415 142 250.226415"></polygon>
+            <path d="M227.75,239 L248.2,239 L248.2,235.45 L232.85,235.45 L247.95,213.9 L247.95,210.8 L228,210.8 L228,214.35 L242.85,214.35 L227.75,235.9 L227.75,239 Z M269.6,239 L287.95,239 L287.95,235.45 L273.75,235.45 L273.75,226.4 L286.1,226.4 L286.1,222.85 L273.75,222.85 L273.75,214.35 L287.95,214.35 L287.95,210.8 L269.6,210.8 L269.6,239 Z M310.05,239 L327.95,239 L327.95,235.45 L321.1,235.45 L321.1,214.35 L327.95,214.35 L327.95,210.8 L310.05,210.8 L310.05,214.35 L316.95,214.35 L316.95,235.45 L310.05,235.45 L310.05,239 Z M357.4,239 L361.55,239 L361.55,214.35 L371.15,214.35 L371.15,210.8 L347.9,210.8 L347.9,214.35 L357.4,214.35 L357.4,239 Z" id="ZEIT" fill="#333333"></path>
+        </g>
+    </g>
+</svg>
