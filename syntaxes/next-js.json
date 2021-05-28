@@ -5,15 +5,15 @@
     {
       "name": "taggedTemplates",
       "contentName": "meta.embedded.block.css",
-      "begin": "(jsx)\\s*>({)\\s*(`)",
+      "begin": "(jsx)(\\s+[a-z]*)*\\s*>({)\\s*(`)",
       "beginCaptures": {
         "1": {
           "name": "entity.name.function.tagged-template.css"
         },
-        "2": {
+        "3": {
           "name": "keyword.other.substitution.begin"
         },
-        "3": {
+        "4": {
           "name": "punctuation.definition.string.template.begin.css"
         }
       },
