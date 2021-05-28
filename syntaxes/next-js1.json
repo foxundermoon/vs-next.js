@@ -5,7 +5,7 @@
     {
       "name": "taggedTemplates",
       "contentName": "meta.embedded.block.css",
-      "begin": "(?<=jsx>{)`",
+      "begin": "(?<=jsx(\\s+[a-z]*)*\\s*>{)`",
       "beginCaptures": {
         "0": {
           "name": "punctuation.definition.string.template.begin.css"
